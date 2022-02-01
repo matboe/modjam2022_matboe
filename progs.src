@@ -1,0 +1,41 @@
+../progs.dat
+
+defs.qc
+matboe/m_defs.qc	//matboe
+subs.qc
+fight.qc
+ai.qc			//matboe edited - SightSound()
+combat.qc
+items.qc		//matboe edited - health_touch(), item_megahealth_rot(), armor_touch(), weapon_touch(), powerup_touch()
+weapons.qc
+world.qc		//matboe edited - StartFrame()
+client.qc		//matboe edited - PutClientInServer(), PlayerPostThink()
+player.qc
+
+monsters.qc		//matboe edited - walkmonster_start()
+doors.qc
+buttons.qc
+triggers.qc		//matboe edited - tdeath_touch()
+plats.qc
+misc.qc
+
+ogre.qc
+demon.qc
+shambler.qc
+knight.qc
+soldier.qc
+wizard.qc
+dog.qc
+zombie.qc
+boss.qc
+
+tarbaby.qc		// registered
+hknight.qc		// registered
+fish.qc			// registered
+shalrath.qc		// registered
+enforcer.qc		// registered
+oldone.qc		// registered
+
+matboe/extras.qc	//matboe
+matboe/mini_sham.qc	//matboe
+matboe/sham1.qc		//matboe
